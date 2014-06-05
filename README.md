@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CMathe
 ======
 
@@ -16,3 +17,9 @@ mathe\evs()
 ```
 oder Über die Bibliothek:
 _Mathe_=>_evs_
+=======
+CM_Utils
+========
+
+Some Nice Ti-Nspire Utilitys
+>>>>>>> 2441c8cde6569adf18bca27de6f9f337ee9e4778
